@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Entidades.Clase07
 {
-    class Paleta
+    public class Paleta
     {
         #region Atributos
         private Tempera[] _colores;
@@ -114,6 +114,29 @@ namespace Entidades.Clase07
                 if(indice != -1)
                 {
                     a._colores[indice] = b;
+                }
+            }
+            return a;
+        }
+
+        public static Paleta operator -(Paleta a, Tempera b)
+        {
+            int indice;
+            sbyte cantPaleta;
+            sbyte cantTempera;
+            if (a == b)
+            {
+                indice = a.ObtenerIndice(b);
+                cantPaleta = (sbyte)a._colores[indice];
+                cantTempera = (sbyte)b;
+                if(cantPaleta > cantTempera)
+                {
+                    cantPaleta -= cantTempera;
+                    a._colores[indice] += (sbyte) (cantPaleta * (-1));
+                }
+                else
+                {
+                    a._colores[indice] = null;
                 }
             }
             return a;

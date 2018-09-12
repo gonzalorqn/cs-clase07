@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Entidades.Clase07
 {
-    class Tempera
+    public class Tempera
     {
         #region Atributos
         private sbyte _cantidad;

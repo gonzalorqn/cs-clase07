@@ -1,0 +1,9 @@
+D:\VisualStudio\Requeni.Gonzalo.2A\Entidades.Clase07\bin\Debug\netstandard2.0\Entidades.Clase07.deps.json
+D:\VisualStudio\Requeni.Gonzalo.2A\Entidades.Clase07\bin\Debug\netstandard2.0\Entidades.Clase07.dll
+D:\VisualStudio\Requeni.Gonzalo.2A\Entidades.Clase07\bin\Debug\netstandard2.0\Entidades.Clase07.pdb
+D:\VisualStudio\Requeni.Gonzalo.2A\Entidades.Clase07\obj\Debug\netstandard2.0\Entidades.Clase07.csprojAssemblyReference.cache
+D:\VisualStudio\Requeni.Gonzalo.2A\Entidades.Clase07\obj\Debug\netstandard2.0\Entidades.Clase07.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Requeni.Gonzalo.2A\Entidades.Clase07\obj\Debug\netstandard2.0\Entidades.Clase07.AssemblyInfoInputs.cache
+D:\VisualStudio\Requeni.Gonzalo.2A\Entidades.Clase07\obj\Debug\netstandard2.0\Entidades.Clase07.AssemblyInfo.cs
+D:\VisualStudio\Requeni.Gonzalo.2A\Entidades.Clase07\obj\Debug\netstandard2.0\Entidades.Clase07.dll
+D:\VisualStudio\Requeni.Gonzalo.2A\Entidades.Clase07\obj\Debug\netstandard2.0\Entidades.Clase07.pdb
